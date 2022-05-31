@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stipenjohn
+- 👋 Hi, I’m Bagas Mahendra
 - 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me at bagasmahendra.p@gmail.com
